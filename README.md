@@ -4,7 +4,9 @@ ITweet is a social media app similar to Twitter. It is enriched with Firebase an
 The app computes Firebase quires to validate new users, verify accounts, and store user's information and posts. 
 Moreover, ITweet is compiled using Java and tested on a virtual emulator from Android Studio. 
 The app is a Minimum Viable Product that aims to build social features for Android users.
-  User Interface
+  
+  
+ User Interface
 </p1>
 
 ![P2](https://user-images.githubusercontent.com/78483535/106751945-a8a3a300-6608-11eb-8c2d-f2a3f36a4a50.PNG)
