@@ -14,5 +14,3 @@ The app is a Minimum Viable Product that aims to build social features for Andro
 ![P6](https://user-images.githubusercontent.com/78483535/106751931-a3deef00-6608-11eb-804f-afb5883804f3.PNG)
 ![P7](https://user-images.githubusercontent.com/78483535/106751942-a7727600-6608-11eb-9203-988120111283.PNG)
 
-<h2> Use Cases </h2>
-<p2>![Use case diagram](https://user-images.githubusercontent.com/78483535/106753266-359b2c00-660a-11eb-8a5e-f45358924f14.png)</p2>
