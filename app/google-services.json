@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "701496603948",
+    "firebase_url": "https://itweetapp-eb026.firebaseio.com",
+    "project_id": "itweetapp-eb026",
+    "storage_bucket": "itweetapp-eb026.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:701496603948:android:2bd3a371ae4918aff22889",
+        "android_client_info": {
+          "package_name": "com.example.itweetapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "701496603948-ojfnpedmude1u4bs39dd05bs65kis3om.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.itweetapp",
+            "certificate_hash": "11e4e798755ce306babaee713cc1564a3a57a2c2"
+          }
+        },
+        {
+          "client_id": "701496603948-47lsn9jj0lfibc4difvsb3aactdj0gir.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQkDvKzYfdFvna1p8-WW8yqgqbcCfVvbU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "701496603948-47lsn9jj0lfibc4difvsb3aactdj0gir.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
